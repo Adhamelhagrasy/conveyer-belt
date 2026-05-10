@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eex3
+Z0 w1759564971
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z3 dC:/Users/adham/Desktop/dsd
+Z4 8C:/Users/adham/Desktop/dsd/first.vhd
+Z5 FC:/Users/adham/Desktop/dsd/first.vhd
+l0
+L3 1
+VzFQ18]n0g19DEA7QiC0m<0
+!s100 [?`<PJI>CA4bj5`SnESTz1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1759564975
+!i10b 1
+Z8 !s108 1759564975.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/adham/Desktop/dsd/first.vhd|
+!s107 C:/Users/adham/Desktop/dsd/first.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 3 ex3 0 22 zFQ18]n0g19DEA7QiC0m<0
+!i122 1
+l7
+L6 5
+VfIH2?=PRoS7??EZ@[JG?l3
+!s100 JTX`g9OUhKO1TgencY7eT2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/adham/Desktop/dsd/first.vhd|
+!i113 1
+R10
+R11

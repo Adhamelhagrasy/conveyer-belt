@@ -1,0 +1,14 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity motor_test is
+    port(
+        dc_motor : out STD_LOGIC
+    );
+end motor_test;
+
+architecture Behavioral of motor_test is
+begin
+    -- Simple test: turn motor ON continuously
+    dc_motor <= '1';  -- FPGA HIGH → transistor conducts → motor runs
+end Behavioral;
